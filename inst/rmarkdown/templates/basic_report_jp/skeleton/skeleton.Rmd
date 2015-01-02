@@ -1,13 +1,12 @@
 ---
 title: "Change the title"
-author: "Shinya Uryu"
+author: "dichika"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 header-includes:
    - \usepackage{lscape}
    - \usepackage{zxjatype}
    - \setmainfont{Helvetica Neue}
    - \setjamainfont{Hiragino Kaku Gothic Pro}  
-   - \setmonofont{Ricty}
    - \usepackage{soul}
    - \usepackage{fancyhdr}
    - \pagestyle{fancy}
